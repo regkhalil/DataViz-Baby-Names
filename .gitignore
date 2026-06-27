@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local data cache downloaded at runtime by baby_names.ipynb
+dpt2020.csv
+france.json
